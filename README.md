@@ -1,89 +1,159 @@
 <div align="center">
 
-# Ali Iqbal
+<sub>ARCHITECTURE &nbsp; / &nbsp; BACKEND ENGINEERING &nbsp; / &nbsp; TECHNICAL LEADERSHIP</sub>
 
-### Enterprise Architect · Technical Lead · Backend Engineer
+# Hi, I’m Ali Iqbal.
 
-Building reliable software, designing scalable systems, and helping engineering teams deliver.
+### I turn complex requirements into reliable systems.
 
-**Lahore, Pakistan**
+Enterprise Architect · Technical Lead · Backend Engineer  
+Lahore, Pakistan · Open to remote roles & selected consulting
 
-[LinkedIn](https://www.linkedin.com/in/ali-iqbal-sse/) · [GitHub projects](https://github.com/aliiqbal436?tab=repositories)
+[**Let’s connect ↗**](https://www.linkedin.com/in/ali-iqbal-sse/) &nbsp; · &nbsp; [**Explore my code ↗**](https://github.com/aliiqbal436?tab=repositories)
+
+[About](#about) · [Expertise](#expertise) · [Projects](#projects) · [Career](#career) · [Connect](#connect)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I’m an Enterprise Architect with a background in backend engineering and technical leadership. My work spans backend services, data-intensive systems, distributed workflows, and applied AI.
+I work where **backend engineering, distributed systems, and applied AI** meet. I design architectures, turn product requirements into delivery plans, and help engineers ship software they can maintain with confidence.
 
-I turn product requirements into architecture and delivery plans, review critical code, mentor engineers, and help teams improve production reliability. I care about understandable systems, practical engineering standards, and reducing technical debt while keeping delivery moving.
+My focus: **clear system boundaries, reliable production behavior, and teams that grow together.**
 
-## What I bring to a team
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- **Architecture & delivery:** system design, technical planning, and clear communication of engineering trade-offs.
-- **Backend engineering:** APIs, background processing, distributed workflows, and cloud-based applications.
-- **Production reliability:** performance improvements, product stabilization, and maintainable systems.
-- **Engineering leadership:** code reviews, mentoring, and standards that support the whole team.
+### Design for clarity
 
-## Technical toolkit
+Architecture, API boundaries, and data flows that make complex systems easier to understand.
+
+</td>
+<td width="33%" valign="top">
+
+### Build for reality
+
+Background processing, distributed workflows, and performance work grounded in production needs.
+
+</td>
+<td width="33%" valign="top">
+
+### Lead through delivery
+
+Technical planning, thoughtful code reviews, mentoring, and practical engineering standards.
+
+</td>
+</tr>
+</table>
+
+## Expertise
+
+**My core stack**
+
+`TypeScript` `JavaScript` `Python` `Node.js` `NestJS` `PostgreSQL` `MongoDB`
+
+<details>
+<summary><b>▸ Explore my engineering toolkit</b></summary>
 
 | Area | Technologies & focus |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Python |
-| Backend | Node.js, NestJS, API design, background processing |
+| Backend | API design, Node.js, NestJS, background processing |
 | Data | PostgreSQL, MongoDB, data-intensive systems |
 | Distributed systems | RabbitMQ, distributed workflows, IPFS, peer-to-peer systems |
 | Frontend & mobile | React, React Native |
-| Engineering practice | Git, system design, enterprise architecture, code reviews, technical leadership |
+| Architecture | System design, enterprise architecture, cloud-based applications |
+| Team practice | Git, code reviews, mentoring, delivery planning |
 
-## Experience
+</details>
 
-| Period | Role |
+<details>
+<summary><b>▸ See how I contribute beyond the code</b></summary>
+
+- Translate product requirements into architecture and actionable engineering work.
+- Review critical code and communicate technical trade-offs clearly.
+- Improve production reliability, integration, and performance.
+- Reduce technical debt while keeping product delivery moving.
+- Support developers through mentoring and shared engineering standards.
+
+</details>
+
+## Projects
+
+### From system design to working code
+
+These public repositories offer a look at my experiments with data routing and peer-to-peer systems.
+
+| Explore | Focus |
 | --- | --- |
-| Jun 2025 – Present | **Enterprise Architect** |
-| Aug 2024 – Jun 2025 | **Principal Software Engineer** |
-| Feb 2024 – Aug 2024 | **Technical Lead** |
-| Aug 2021 – Oct 2023 | **Senior Software Engineer** |
-| Aug 2020 – Aug 2021 | **Software Engineer** |
-| Oct 2018 – Aug 2020 | **Software Engineer** |
+| [**MongoDB tenant shards ↗**](https://github.com/aliiqbal436/mongodb-tenant-shards) | Route each tenant’s data to a specific MongoDB shard. |
+| [**IPFS demo ↗**](https://github.com/aliiqbal436/ipfs-demo) | Explore IPFS using JavaScript. |
+| [**libp2p example ↗**](https://github.com/aliiqbal436/libp2p-example) | Experiment with peer-to-peer networking in JavaScript. |
 
-I manage architecture for production systems, work with the sales team to translate requirements into development tasks, and guide improvements to integration and performance.
-
-## Selected project experience
+<details>
+<summary><b>▸ Explore selected product experience</b></summary>
 
 **Decentralized storage platform**  
-Work on a reward-based decentralized storage system built on an IPFS peer-to-peer network. Technologies listed on my project profile include NestJS and React.
+Work on a reward-based storage system built on an IPFS peer-to-peer network, with NestJS and React among the technologies used.
 
 **Multi-chain NFT marketplace**  
-Work on a fractional, multi-chain NFT marketplace.
+Work on a marketplace supporting fractional NFTs across multiple chains.
 
-[More project details on LinkedIn →](https://www.linkedin.com/in/ali-iqbal-sse/details/projects/)
+</details>
 
-## Public code
+[**Browse all public repositories →**](https://github.com/aliiqbal436?tab=repositories)
 
-A selection of my public repositories and experiments:
+## Career
 
-- [**mongodb-tenant-shards**](https://github.com/aliiqbal436/mongodb-tenant-shards) — routing each tenant’s data to a specific MongoDB shard.
-- [**ipfs-demo**](https://github.com/aliiqbal436/ipfs-demo) — JavaScript repository exploring IPFS.
-- [**libp2p-example**](https://github.com/aliiqbal436/libp2p-example) — JavaScript examples around libp2p.
+**Software engineering → Technical leadership → Enterprise architecture**
 
-## Education
+<details open>
+<summary><b>▾ View my career timeline</b></summary>
+
+| When | Role |
+| --- | --- |
+| **Jun 2025 – Present** | Enterprise Architect |
+| Aug 2024 – Jun 2025 | Principal Software Engineer |
+| Feb 2024 – Aug 2024 | Technical Lead |
+| Aug 2021 – Oct 2023 | Senior Software Engineer |
+| Aug 2020 – Aug 2021 | Software Engineer |
+| Oct 2018 – Aug 2020 | Software Engineer |
+
+</details>
+
+<details>
+<summary><b>▸ Education & continued learning</b></summary>
 
 **Master’s degree in Data Science — in progress**  
-University of Management and Technology (UMT) · Oct 2026 – Oct 2028 (expected)
+University of Management and Technology (UMT)  
+Oct 2026 – Oct 2028 (expected)
 
 **Bachelor’s degree in Computer Software Engineering**  
-Virtual University of Pakistan · Sep 2014 – Feb 2019
+Virtual University of Pakistan  
+Sep 2014 – Feb 2019
 
-## Selected learning & certifications
+**Selected course certificates**
 
-- [Apache Kafka Essential Training: Building Scalable Applications](https://www.linkedin.com/learning/certificates/a72cea5d92fef6d1e68822163049d1ee1d2527b386d86326b8b18a58d5478958/) — LinkedIn, Mar 2025
-- [Introduction to Distributed Systems for Dummies](https://www.educative.io/verify-certificate/487B21t9pON0P5WmLc3kAV792XqwfG) — Educative, Jun 2024
+- [Apache Kafka Essential Training: Building Scalable Applications ↗](https://www.linkedin.com/learning/certificates/a72cea5d92fef6d1e68822163049d1ee1d2527b386d86326b8b18a58d5478958/) · Mar 2025
+- [Introduction to Distributed Systems for Dummies ↗](https://www.educative.io/verify-certificate/487B21t9pON0P5WmLc3kAV792XqwfG) · Jun 2024
 
-## Let’s connect
+</details>
 
-I’m interested in remote **Technical Lead**, **Lead Backend Engineer**, and **Senior Backend / AI Engineering** opportunities, as well as selected consulting engagements in backend architecture, product stabilization, and applied AI systems.
+---
 
-[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/ali-iqbal-sse/)
+<div align="center">
+
+## Connect
+
+### Building a backend that needs to grow? Let’s talk.
+
+Open to **Technical Lead**, **Lead Backend Engineer**, and **Senior Backend / AI Engineering** roles.  
+Available for selected consulting in architecture, product stabilization, and applied AI systems.
+
+[**Start a conversation on LinkedIn ↗**](https://www.linkedin.com/in/ali-iqbal-sse/)
+
+<sub>Clear architecture. Reliable software. Stronger teams.</sub>
+
+</div>
