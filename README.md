@@ -16,7 +16,7 @@ Building reliable software, designing scalable systems, and helping engineering 
 
 ## About me
 
-I’m an Enterprise Architect at **Golden Hawk Technologies**, with a background in backend engineering and technical leadership. My work spans backend services, data-intensive systems, distributed workflows, and applied AI.
+I’m an Enterprise Architect with a background in backend engineering and technical leadership. My work spans backend services, data-intensive systems, distributed workflows, and applied AI.
 
 I turn product requirements into architecture and delivery plans, review critical code, mentor engineers, and help teams improve production reliability. I care about understandable systems, practical engineering standards, and reducing technical debt while keeping delivery moving.
 
@@ -40,24 +40,24 @@ I turn product requirements into architecture and delivery plans, review critica
 
 ## Experience
 
-| Period | Role | Organization |
-| --- | --- | --- |
-| Jun 2025 – Present | **Enterprise Architect** | Golden Hawk Technologies |
-| Aug 2024 – Jun 2025 | **Principal Software Engineer** | InvoZone |
-| Feb 2024 – Aug 2024 | **Technical Lead** | INNOVENT Tech |
-| Aug 2021 – Oct 2023 | **Senior Software Engineer** | InvoZone |
-| Aug 2020 – Aug 2021 | **Software Engineer** | InvoZone |
-| Oct 2018 – Aug 2020 | **Software Engineer** | HL Tech |
+| Period | Role |
+| --- | --- |
+| Jun 2025 – Present | **Enterprise Architect** |
+| Aug 2024 – Jun 2025 | **Principal Software Engineer** |
+| Feb 2024 – Aug 2024 | **Technical Lead** |
+| Aug 2021 – Oct 2023 | **Senior Software Engineer** |
+| Aug 2020 – Aug 2021 | **Software Engineer** |
+| Oct 2018 – Aug 2020 | **Software Engineer** |
 
-At Golden Hawk Technologies, I manage architecture for production systems, work with the sales team to translate requirements into development tasks, and guide improvements to integration and performance.
+I manage architecture for production systems, work with the sales team to translate requirements into development tasks, and guide improvements to integration and performance.
 
 ## Selected project experience
 
-**Storagechain.io**  
-Work on a reward-based decentralized storage system built on an IPFS peer-to-peer network, associated with InvoZone. Technologies listed on my project profile include NestJS and React.
+**Decentralized storage platform**  
+Work on a reward-based decentralized storage system built on an IPFS peer-to-peer network. Technologies listed on my project profile include NestJS and React.
 
-**Piqsol**  
-Work on a fractional, multi-chain NFT marketplace, associated with InvoZone.
+**Multi-chain NFT marketplace**  
+Work on a fractional, multi-chain NFT marketplace.
 
 [More project details on LinkedIn →](https://www.linkedin.com/in/ali-iqbal-sse/details/projects/)
 
